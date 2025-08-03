@@ -1,0 +1,45 @@
+h1 {
+	text-align: left;
+	font-family: 'Times New Roman', serif;
+	font-size: 2em;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-weight: bold;
+
+	a {
+		color: black !important;
+	}
+
+}
+
+.tabs {
+	margin-bottom: 20px;
+
+	h2 {
+		font-size: 1.2em;
+		font-family: 'Times New Roman', serif;
+		margin: 10px 0;
+		display: inline;
+		margin-right: 20px;
+
+		a:visited { 
+			color: blue; 
+			text-decoration: underline;
+		}
+		a:link {
+			color: blue;
+			text-decoration: underline;
+		}
+	
+		a:hover {
+			color: red;
+			text-decoration: underline;
+		}
+	}
+
+	.subtab {
+		display: block;
+	}
+}
+
+

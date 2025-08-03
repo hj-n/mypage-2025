@@ -1,0 +1,18 @@
+### template for publications
+### necessary fields:
+title: "CLAMS: A Cluster Ambiguity Measure for Estimating Perceptual Variability in Visual Clustering"
+venue: IEEE Transactions on Visualization and Computer Graphics (Proc. VIS 2023)
+authors: Hyeon Jeon*, Ghulam Jilani Quadri*, Hyunwook Lee, Paul Rosen, Danielle Albers Szafir, and Jinwook Seo 
+tldr: A visaul quality measure (VQM) estimating the perceptual variability in visual clustering (i.e., cluster ambiguity)
+abstract: TODO
+image: clams.png
+### optional fields
+comment: (*equal contribution)
+pdf: jeon23tvcg2.pdf
+# github: https://github.com/hyungkwonko/umato
+arxiv: https://arxiv.org/abs/2308.00284
+# video: https://www.youtube.com/watch?v=cIJy8N1YhmQ
+bibtex: jeon23tvcg2.bib
+award: Best Paper Honorable Mention Award (Top 5% submissions)
+# demo:
+# appendix: jeon23tvcg2_appendix.pdf

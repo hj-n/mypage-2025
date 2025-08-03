@@ -1,0 +1,17 @@
+### template for publications
+### necessary fields:
+title: "ZADU: A Python Library for Evaluating the Reliability of Dimensionality Reduction Embeddings"
+venue: 2023 IEEE Visualization and Visual Analytics (VIS)
+authors: Hyeon Jeon, Aeri Cho, Jinhwa Jang, Soohyun Lee, Jake Hyun, Hyung-Kwon Ko, Jaemin Jo, and Jinwook Seo
+tldr: A Python Library serving the distortion measures for evaluating the reliability of dimensionality reduction embeddings.
+abstract: Dimensionality reduction (DR) techniques inherently distort the original structure of input high-dimensional data, producing imperfect low-dimensional embeddings. Diverse distortion measures have been proposed to evaluate the reliability of DR embeddings prior to data analysis. However, implementing and executing distortion measures in practice has so far been time-consuming and tedious. To address this issue, we present ZADU, a Python library that provides distortion measures. ZADU is not only easy to install and execute but also enables comprehensive evaluation of DR embeddings through three key features. First, the library covers a wide range of distortion measures. Second, it automatically optimizes the execution of distortion measures, substantially reducing the running time required to execute multiple measures. Last, the library informs how individual points contribute to the overall distortions, facilitating the detailed analysis of DR embeddings. By simulating a real-world scenario of optimizing DR embeddings, we verify that the execution scheduling substantially reduces the time required to execute distortion measures. Finally, as an application of ZADU, we present a library called ZADUVis that allows users to easily create distortion visualizations that depict the extent to which each region of an embedding suffers from distortions.
+image: zadu.png
+### optional fields
+comment: 
+pdf: jeon23vis.pdf
+github: https://github.com/hj-n/zadu
+arxiv: https://arxiv.org/abs/2308.00282
+# video: https://www.youtube.com/watch?v=cIJy8N1YhmQ
+bibtex: jeon23vis.bib
+# demo:
+# appendix: jeon23vis_appendix.pdf

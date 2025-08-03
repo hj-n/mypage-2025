@@ -1,0 +1,7 @@
+intro: "<p>I am a Ph.D Student at Seoul National University, advised by <a href='http://hcil.snu.ac.kr/people/jinwook-seo' target='_blank'>Dr. Jinwook Seo</a>. During my Ph.D., I visited INRIA and the Univeristy of California, Davis. <br/>My Ph.D. study is supported by <a href='https://research.google/programs-and-events/phd-fellowship/recipients/''>Google Ph.D. Fellowship</a>.</p> <p>I work at the intersection of data visualization, human-computer interaction, and machine learning. <br/>My primary aim is to make visual analytics more human-centered and reliable. </p> "
+
+# intro_dep: "<div style='margin-top: 16px; border: 1px solid gray; border-radius: 8px; padding: 16px; font-size: 1.1em; text-align: center;'><i>I'm seeking a <u>Postdoctoral Researcher</u> position in the US, beginning in early 2026!!</i></div> "
+
+pub: "Please refer to my <a href='https://hyeonword.com/cv/cv.pdf' target='_blank'>cv</a> for the complete list of publications."
+
+file: intro.jpeg

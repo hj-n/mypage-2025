@@ -1,0 +1,18 @@
+intro: "I released several software libraries as artifact of my research."
+
+contents:
+  - title: "ZADU"
+    id: "zadu"
+    year: 2023
+    link: https://github.com/hj-n/zadu
+    description: "A Python library with distortion metrics for evaluating dimensionality reduction projections (VIS 2023)"
+  - title: "PyIVM"
+    id: "pyivm"
+    year: 2025
+    link: https://github.com/hj-n/pyivm
+    description: "A Python library for computing internal clustering validation metrics, i.e., quality metrics with both <i>original</i> and <i>adjusted</i> forms (TPAMI 2025)"
+  - title: "UMATO"
+    id: "umato"
+    year: 2022
+    link: https://github.com/hyungkwonko/umato
+    description: "A Python implementation of UMATO algorithm (VIS 2022)"

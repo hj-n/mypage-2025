@@ -1,0 +1,18 @@
+### template for publications
+### necessary fields:
+title: "A Critical Analysis of the Usage of Dimensionality Reduction in Four Domains"
+venue: IEEE Transactions on Visualization and Computer Graphics
+authors: Dylan Cashman, Mark Keller, Hyeon Jeon, Bum Chul Kwon, and Qianwen Wang
+tldr: A literature review on the use of dimensionality reduction in four domains outside of visualization
+abstract: TODO
+image: fourdomains.png
+### optional fields
+comment: <br/>Invited for the presentation at IEEE VIS 2025
+pdf: cashman25tvcg.pdf
+# github: https://github.com/hyungkwonko/umato
+arxiv: https://arxiv.org/abs/2503.08836
+# video: https://www.youtube.com/watch?v=cIJy8N1YhmQ
+# bibtex: jung24tvcg.bib
+# award: 
+demo: https://dimension-reduction-vis.github.io/
+# appendix: jeon23tvcg2_appendix.pdf

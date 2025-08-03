@@ -1,0 +1,18 @@
+### template for publications
+### necessary fields:
+title: "Navigating High-Dimensional Backstage: A Guide for Exploring Literature for the Reliable Use of Dimensionality Reduction"
+venue: 2025 Eurographics/VGTC Conference on Visualization (EuroVis)
+authors: Hyeon Jeon, Hyunwook Lee, Yun-Hsin Kuo, Taehyun Yang, Daniel Archambault, Sungahn Ko, Takanori Fujiwara, Kwan-Liu Ma, and Jinwook Seo
+tldr: Exploring the literature on the reliability of visual analytics using dimensionality reduction
+abstract: Visual analytics using dimensionality reduction (DR) can easily be unreliable for various reasons, e.g., inherent distortions in representing the original data. The literature has thus proposed a wide range of methodologies to make DR-based visual analytics reliable. However, the diversity and extensiveness of the literature can leave novice analysts and researchers uncertain about where to begin and proceed. To address this problem, we propose a guide for reading papers for reliable visual analytics with DR. Relying on the previous classification of the relevant literature, our guide helps both practitioners to (1) assess their current DR expertise and (2) identify papers that will further enhance their understanding. Interview studies with three experts in DR and data visualizations validate the significance, comprehensiveness, and usefulness of our guide.
+image: navigating.png
+### optional fields
+# comment: conditionally accepted. 
+pdf: jeon25eurovis.pdf
+# github:
+# arxiv: 
+# video:
+# bibtex:
+demo: https://dr-reliability.github.io/guide/
+# appendix:
+# award:

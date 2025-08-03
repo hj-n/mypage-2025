@@ -1,0 +1,18 @@
+### template for publications
+### necessary fields:
+title: "Unveiling High-dimensional Backstage: A Survey for Reliable Visual Analytics with Dimensionality Reduction"
+venue: 2025 ACM CHI conference on Human Factors in Computing Systems (CHI)
+authors: Hyeon Jeon, Hyunwook Lee, Yun-Hsin Kuo, Taehyun Yang, Daniel Archambault, Sungahn Ko, Takanori Fujiwara, Kwan-Liu Ma, and Jinwook Seo
+tldr: Survey on 133 studies that improve the reliability of visual analytics using dimensionality reduction
+abstract: Dimensionality reduction (DR) techniques are essential for visually analyzing high-dimensional data. However, visual analytics using DR often face unreliability, stemming from factors such as inherent distortions in DR projections. This unreliability can lead to analytic insights that misrepresent the underlying data, potentially resulting in misguided decisions. To tackle these reliability challenges, we review 133 papers that address the unreliability of visual analytics using DR. Through this review, we contribute (1) a workflow model that describes the interaction between analysts and machines in visual analytics using DR, and (2) a taxonomy that identifies where and why reliability issues arise within the workflow, along with existing solutions for addressing them. Our review reveals ongoing challenges in the field, whose significance and urgency are validated by five expert researchers. This review also finds that the current research landscape is skewed toward developing new DR techniques rather than their interpretation or evaluation, where we discuss how the HCI community can contribute to broadening this focus.
+image: backstage.png
+### optional fields
+# comment: conditionally accepted. 
+pdf: jeon25chi.pdf
+# github:
+arxiv: https://arxiv.org/abs/2501.10168
+# video:
+# bibtex:
+demo: https://dr-reliability.github.io/demo/
+# appendix:
+# award:

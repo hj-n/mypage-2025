@@ -1,0 +1,18 @@
+### template for publications
+### necessary fields:
+title: "MoNetExplorer: A Visual Analytics System for Analyzing Dynamic Networks with Temporal Network Motifs"
+venue: IEEE Transactions on Visualization and Computer Graphics
+authors: Seokweon Jung, DongHwa Shin, Hyeon Jeon, Kiroong Choe, and Jinwook Seo
+tldr: A interactive visual analytics system that leverages temporal network motifs to support users in visually comparing different slicing results
+abstract: TODO
+image: monetexplorer.png
+### optional fields
+comment: <br/>Invited for the presentation at IEEE VIS 2024
+pdf: jung24tvcg.pdf
+# github: https://github.com/hyungkwonko/umato
+# arxiv: https://arxiv.org/abs/2308.00284
+# video: https://www.youtube.com/watch?v=cIJy8N1YhmQ
+bibtex: jung24tvcg.bib
+# award: 
+# demo:
+# appendix: jeon23tvcg2_appendix.pdf

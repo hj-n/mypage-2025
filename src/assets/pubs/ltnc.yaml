@@ -1,0 +1,17 @@
+### template for publications
+### necessary fields:
+title: "Classes are not Clusters: Improving Label-based Evaluation of Dimensionality Reduction"
+venue: IEEE Transactions on Visualization and Computer Graphics (Proc. VIS 2023)
+authors: Hyeon Jeon, Yun-Hsin Kuo, Michaël Aupetit, Kwan-Liu Ma, and Jinwook Seo 
+tldr: Sanitizing the way of evaluating dimensionality reduction embeddings based on class labels
+abstract: TODO
+image: ltnc.png
+### optional fields
+# comment: to appear.
+pdf: jeon23tvcg.pdf
+github: https://github.com/hj-n/ltnc
+arxiv: https://arxiv.org/abs/2308.00278
+# video: https://www.youtube.com/watch?v=cIJy8N1YhmQ
+bibtex: jeon23tvcg.bib
+# demo:
+# appendix: jeon23tvcg_appendix.pdf

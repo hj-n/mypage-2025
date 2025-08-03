@@ -1,0 +1,31 @@
+.materialsWrapper {
+
+	.materials {
+		font-size: 1em;
+		font-family: 'Times New Roman', serif;
+	}
+
+	.materialTitle {
+		font-size: 1rem;
+		font-family: 'Times New Roman', serif;
+		font-weight: bold;
+	}
+
+	.materialLink {
+		font-size: 1rem;
+		text-decoration: underline;
+		font-family: 'Times New Roman', serif;
+		font-weight: normal;
+	}
+
+	.materialDescription {
+		font-size: 1rem;
+		font-family: 'Times New Roman', serif;
+	}
+
+	.materialContent {
+		margin-top: 10px;
+		padding-left: 0;
+		border-left: none;
+	}
+}

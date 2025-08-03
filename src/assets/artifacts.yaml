@@ -1,0 +1,13 @@
+intro: "As I have been benefited from publicly shared resources, I am also making my artifacts available here."
+
+contents:
+  - title: "Google Ph.D. Fellowship Application Materials"
+    id: "google-fellowship"
+    year: 2024
+    link: https://hyeonword.com/google_fellowship_materials/
+    description: "Materials (Research Statement, Essay responses, and CV) used for my application"
+  - title: "EuroVis 2025 Reliable Dimensionality Reduction Tutorial"
+    id: "eurovis2025-tutorial"
+    year: 2025
+    link: https://hyeonword.com/dr-tutorial/
+    description: "Materials for our tutorial on the reliable use of dimensionality reduction @ EuroVis 2025 <br/> Co-designed and instructed with <a href='https://takanori-fujiwara.github.io/' target='_blank' >Takanori Fujiwara<a/> and <a href='https://scholar.google.com/citations?user=FmOavxUAAAAJ&hl=en&oi=sra' target='_blank' >Rafael M. Martins</a>"

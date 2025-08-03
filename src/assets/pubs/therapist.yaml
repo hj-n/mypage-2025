@@ -1,0 +1,11 @@
+title: "Data Therapist: Eliciting Domain Knowledge from Subject Matter Experts Using Large Language Models"
+venue: arXiv Preprint
+authors: Sungbok Shin, Hyeon Jeon, Sanghyun Hong, and Niklas Elmqvist
+tldr:  A web-based tool that helps domain experts externalize their implicit knowledge through a mixed-initiative process with LLM.
+abstract: TBA
+image: therapist.png
+pdf:    shin25arxiv.pdf
+# github: https://github.com/hj-n/distortion-aware-brushing
+arxiv : https://arxiv.org/abs/2505.00455
+# bibtex : jeon22arxiv.bib
+

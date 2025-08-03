@@ -1,0 +1,15 @@
+### template for publications
+### necessary fields:
+title: "VANT: A Visual Analytics System for Refining Parallel Corpora in Neural Machine Translation"
+venue: 2022 IEEE Pacific Visualization Symposium (PacificVis)
+authors: Sebeom Park, Soohyun Lee, Youngtaek Kim, Hyeon Jeon, Seokweon Jung, Jinwook Bok, and Jinwook Seo
+tldr: A visual analytics system for refining parallel corpora used in training an Neural Machine Translation Model
+abstract: The quality of parallel corpora used to train a Neural Machine Translation (NMT) model can critically influence the model's performance. Various approaches for refining parallel corpora have been introduced, but there is still much room for improvements, such as enhancing the efficiency and the quality of refinement. We introduce VANT, a novel visual analytics system for refining parallel corpora used in training an NMT model. Our system helps users to readily detect and filter noisy parallel corpora by  (1) aiding the quality estimation of individual sentence pairs within the corpora by providing diverse quality metrics (e.g., cosine similarity, BLEU, length ratio) and (2) allowing users to visually examine and manage the corpora based on the pre-computed metrics scores. Our system's effectiveness and usefulness are demonstrated through a qualitative user study with eight participants, including four domain experts with real-world datasets.
+image: vant.png
+### optional fields
+# comment: 181-185 (Short paper)
+pdf: park22pvis.pdf
+github: https://github.com/sebeom-park-lab/NMT-Viz
+bibtex: park22pvis.bib
+demo: https://vant-web.github.io/demo/
+award: Best Visualization Notes Award (Top 1st submission)

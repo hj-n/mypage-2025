@@ -1,0 +1,130 @@
+## add the yaml containing the info of the publication with the name {key}.yaml
+## possible properties: 
+### - selected: selected publications
+### - preprint
+### - journal
+### - conference
+### - others: domestic, poster
+- key: snc
+  time: 2107
+  property:
+    - selected
+    - full
+- key: githru
+  time: 2007
+  property:
+    - full
+- key: issue_propagation
+  time: 2106
+  property:
+    - short
+- key: vant
+  time: 2206
+  property:
+    - short
+- key: umato
+  time: 2211
+  property:
+    - short
+- key: ltgm
+  time: 2301
+  property: 
+    - full
+- key: zadu
+  time: 2307
+  property:
+    - short
+- key: clams
+  time: 2307
+  property:
+    - selected
+    - full
+- key: ltnc
+  time: 2308
+  property:
+    - selected
+    - full
+- key: vnli
+  time: 2309
+  property:
+    - others
+- key: monetexplorer
+  time: 2312
+  property:
+    - full
+- key: vl2nl
+  time: 2404
+  property:
+    - full
+- key: clochat
+  time: 2403
+  property:
+    - full
+- key: iolens
+  time: 2402
+  property:
+    - short
+- key: clever
+  time: 2402
+  property:
+    - short
+- key: phenoflow
+  time: 2407
+  property:
+    - full
+- key: backstage
+  time: 2504
+  property:
+    - full
+    - selected
+- key: misannot
+  time: 2503
+  property:
+    - short
+- key: fourdomains
+  time: 2504
+  property:
+    - full
+    - selected
+- key: clm
+  time: 2505
+  property: 
+    - full
+    - selected
+- key: navigating
+  time: 2505
+  property:
+    - short
+- key: dadr
+  time: 2508
+  property:
+    - full
+    - selected
+- key: therapist
+  time: 2506
+  property:
+    - preprint
+- key: metricselection
+  time: 2507
+  property:
+    - short
+- key: umatofull
+  time: 2507
+  property: 
+    - full
+    - selected
+- key: dabrush
+  time: 2508
+  property: 
+    - full
+    - selected
+- key: drbias
+  time: 2509
+  property:
+    - preprint
+    - selected
+- key: misusing
+  time: 2510
+  property:
+    - preprint
+    - selected

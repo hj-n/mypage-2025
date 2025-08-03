@@ -1,0 +1,18 @@
+### template for publications
+### necessary fields:
+title: "CLeVer: Continual Learning Visualizer for Detecting Task Transition Failure"
+venue: 2024 IEEE Pacific Visualization Conference (PacificVis)
+authors: Minsuk Chang, Donghun Kim, Hyeon Jeon, Seokweon Jung, and Jinwook Seo
+tldr: A visualization system designed to analyze and enhance the performance of continual learning models
+abstract: "We introduce CLeVer, a novel visualization system designed to analyze and enhance the performance of continual learning models by detecting task transition failures. Based on the literature review, we discovered and classified three primary causes of task transition failure in classification tasks: class/position inconsistency, biased/noisy samples, and diverse class scopes. These problems are critical in terms of model performance but were not tackled in prior research on continual learning. CLeVer is designed to address these chalenges as an integrated system for model experiments and visual analysis. Firstly, users can easily configure the tasks for continual learning through a single JSON file. Then, our system automatically simulates the continual learning process in a relatively short time while generating data for visualization. Finally, the transition visualizer provides an effective visual representation of the task transition process where users can easily detect the task transition failures in continual learning. Our interview with machine learning experts and a case study with three participants demonstrate CLeVer’s utility in detecting and addressing such failures. We also discuss the system’s potential applicability and adaptability for various computer vision tasks while suggesting our future work."
+image: clever.png
+### optional fields
+comment: <br/> Also presented at Visualization Meets AI Workshop (VisMeetsAI)
+pdf: chang24pvis.pdf
+# github:
+# arxiv:
+# video:
+# bibtex:
+# demo:
+# appendix:
+# award:

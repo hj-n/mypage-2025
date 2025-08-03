@@ -1,0 +1,18 @@
+### template for publications
+### necessary fields:
+title: "Dataset-Adaptive Dimensionality Reduction"
+venue: IEEE Transactions on Visualization and Computer Graphics (Proc. VIS 2025)
+authors: Hyeon Jeon, Jeongin Park, Soohyun Lee, Dae Hyun Kim, Sungbok Shin, and Jinwook Seo
+tldr: A dataset-adaptive approach to make the use of dimensionality reduction more reliable and efficient; based on structural complexity metrics.
+abstract: TODO
+image: dadr.png
+### optional fields
+# comment: conditionally accepted.
+pdf: jeon25tvcg.pdf
+github: https://github.com/hj-n/dataset-adaptive-dr
+arxiv: https://arxiv.org/abs/2507.11984
+# video: https://www.youtube.com/watch?v=cIJy8N1YhmQ
+# bibtex: jeon23tvcg2.bib
+# award: Best Paper Honorable Mention Award (Top 5% submissions)
+demo: https://hyeonword.com/dadr/
+appendix: jeon25tvcg_appendix.pdf

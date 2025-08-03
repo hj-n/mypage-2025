@@ -1,0 +1,17 @@
+### template for publications
+### necessary fields:
+title: "Metric Design != Metric Behavior: Improving Metric Selection for the Unbiased Evaluation of Dimensionality Reduction"
+venue: 2025 IEEE Visualization and Visual Analytics (VIS)
+authors: Jiyeon Bae, Hyeon Jeon, and Jinwook Seo
+tldr: A strategy for selecting distortion measures based on mutual similarity, which mitigates the bias in evaluating dimensionality reduction projections.
+abstract: ""
+image: metricselection.png
+### optional fields
+comment: 
+pdf: bae25vis.pdf
+# github: https://github.com/hj-n/zadu
+arxiv: https://arxiv.org/abs/2507.02225
+# video: https://www.youtube.com/watch?v=cIJy8N1YhmQ
+# bibtex: jeon23vis.bib
+# demo:
+# appendix: jeon23vis_appendix.pdf

@@ -1,0 +1,17 @@
+### template for publications
+### necessary fields:
+title: "Understanding Bias in Perceiving Dimensionality Reduction Projections"
+venue: arXiv Preprint
+authors: Seoyoung Doh, Hyeon Jeon, Sungbok Shin, Ghulam Jilani Quadri, Nam Wook Kim, and Jinwook Seo
+# tldr: A visualization dataset consists of 1,981 Vega-Lite specs and a study on generating natural language queries using the dataset
+# abstract: There is a growing trend of utilizing Visualization-oriented Natural Language Interfaces (V-NLIs) to author charts. However, researchers consistently highlight the lack of high-quality chart and natural language datasets, which impedes the development of more sophisticated and data-driven systems using V-NLIs. In this study, we present a meticulously curated collection of human-generated 1,981 Vega-Lite specifications, derived from real-world data, and use Large Language Models (LLMs) for generating natural language queries for chart generation tasks. Unlike previous datasets that relied on relatively simple and homogeneous templates, our Vega-Lite dataset contains more complex and diverse (i.e., varying interactions, composite views, and different chart types). Using this dataset, we demonstrate generating natural language queries for chart generation, and how the results can be different when different input types are used (e.g., Vega-Lite, Image, both Vega-Lite and Image).
+image: drbias.png
+### optional fields
+# comment: 
+pdf: doh25arxiv.pdf
+# github: https://github.com/hyungkwonko/chart-llm-data/
+arxiv: https://arxiv.org/abs/2507.20805
+# video: https://www.youtube.com/watch?v=cIJy8N1YhmQ
+# bibtex: jeon23vis.bib
+# demo:
+# appendix: jeon23vis_appendix.pdf

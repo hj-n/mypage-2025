@@ -1,0 +1,14 @@
+### template for publications
+### necessary fields:
+title: Visualization Support for Multi-criteria Decision Making in Software Issue Propagation
+venue: 2021 IEEE Pacific Visualization Symposium (PacificVis)
+authors: Youngtaek Kim, Hyeon Jeon, Young-Ho Kim, Yuhoon Ki, Hyunjoo Song, and Jinwook Seo
+tldr: A visual analytics system to support multi-criteria decision making tasks in software issue propagation.
+abstract: "Finding the propagation scope for various types of issues in Software Product Lines (SPLs) is a complicated Multi-Criteria Decision Making (MCDM) problem. This task often requires human-in-the-loop data analysis, which covers not only multiple product attributes but also contextual information (e.g., internal policy, customer requirements, exceptional cases, cost efficiency). We propose an interactive visualization tool to support MCDM tasks in software issue propagation based on the user's mental model. Our tool enables users to explore multiple criteria with their insight intuitively and find the appropriate propagation scope."
+image: issue_propagation.png
+### optional fields
+# comment: 81-85
+pdf: kim21pvis.pdf
+video: https://drive.google.com/file/d/1IRHOJqkK9zCPQzG9Vl-Au5r13gIxhMOw/view
+bibtex: kim21pvis.bib
+demo: https://issue-propagation.github.io/demo/

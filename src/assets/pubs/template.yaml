@@ -1,0 +1,18 @@
+### template for publications
+### necessary fields:
+title:
+venue:
+authors:
+tldr:
+abstract:
+image:
+### optional fields
+comment:
+pdf:
+github:
+arxiv:
+video:
+bibtex:
+demo:
+appendix:
+award:

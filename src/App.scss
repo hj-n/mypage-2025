@@ -1,0 +1,49 @@
+body {
+
+	h1 {
+			font-family: 'Times New Roman', serif;
+			margin: 0px;
+			font-size: 3em;
+			margin-bottom: 15px;
+	
+			a:visited {
+				color: black;
+				text-decoration: none;
+			}
+			a:link {
+				color: black;
+				text-decoration: none;
+			}
+			a:hover {
+				text-decoration: none;
+			}
+		}
+
+	margin: 0px;
+	font-family: 'Times New Roman', serif;
+
+	a:visited { 
+    color: blue; 
+    text-decoration: underline;
+  }
+  a:link {
+    color: blue;
+    text-decoration: underline;
+  }
+
+  a:hover {
+    color: red;
+    text-decoration: underline;
+  }
+
+
+}
+
+.App {
+	margin: 0;
+	padding: 20px;
+	text-align: left;
+	width: 100%;
+	box-sizing: border-box;
+}
+

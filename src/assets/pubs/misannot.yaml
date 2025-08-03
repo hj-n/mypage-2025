@@ -1,0 +1,18 @@
+### template for publications
+### necessary fields:
+title: Automated Pipeline for Detecting and Analyzing Misleading Visual Elements
+venue: 2025 IEEE Pacific Visualization Conference (PacificVis)
+authors: Minhyeong Kim, Yumin Song, Yungun Kim, Aeri Cho, Soohyun Lee, Hyeon Jeon, and Jinwook Seo
+tldr: An LLM-empowered pipeline for identifying misleading components of visualizations
+abstract: "Data visualizations can sometimes misrepresent the underlying data, leading to misleading interpretations. However, existing systems fail to precisely identify which parts of a visualization contribute to misleading interpretations, leaving users uncertain about the misalignments. To address this issue, we develop a pipeline that automatically identifies the misleading parts within a visualization. Given an image file, our pipeline first detects graphical components of the visualization, converting them into structured objects. We then apply an algorithm to pinpoint misleading objects and explain how they contribute to distortions in interpretation. Our user study confirms that our pipeline accurately identifies misleading visualization designs, outperforming previous baselines. We also find that our pipeline supports participants in developing revision strategies to improve misleading visualizations."
+image: misannot.png
+### optional fields
+# comment: to appear. (Short paper)
+pdf: kim25pvis.pdf
+# github:
+# arxiv:
+# video:
+# bibtex:
+# demo:
+# appendix:
+# award:

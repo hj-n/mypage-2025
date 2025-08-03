@@ -1,0 +1,18 @@
+### template for publications
+### necessary fields:
+title: Interactive Visualization for Exploring Information Fragments in Software Repositories
+venue: IEEE 14th Pacific Visualization Symposium (PacificVis 2021)
+authors: Youngtaek Kim, Hyeon Jeon, Kiroong Choe, Hyunjoo Song, Bohyoung Kim, and Jinwook Seo
+tldr: ExIF, an extension of githru for exploring information fragments in software repositories
+abstract: Software developers explore and inspect software repository data to obtain detailed information archived in the development history. However, developers who are not acquainted with the development context suffer from delving into the repositories with a handful of information; they have difficulty discovering and expanding information fragments considering the topological and sequential multi-dimensional structure of repositories. We introduce ExIF, an interactive visualization for exploring information fragments in software repositories. ExIF helps users discover new information fragments within clusters or topological neighbors and identify revisions incorporating user-collected fragments.
+image: exif.png
+### optional fields
+comment: (Poster)
+pdf: kim21pvisposter.pdf
+# github:
+arxiv: https://arxiv.org/abs/2104.13568
+video: https://drive.google.com/file/d/1rAKKiaT0BytOoF898hOJMsVK-x7Rs-GQ/view
+bibtex: kim21pvisposter.bib
+demo: https://githru.github.io/exif/
+# appendix:
+# award:

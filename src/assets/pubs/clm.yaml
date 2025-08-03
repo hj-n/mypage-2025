@@ -1,0 +1,18 @@
+### template for publications
+### necessary fields:
+title: Measuring the Validity of Clustering Validation Datasets
+venue: IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+authors: Hyeon Jeon, Michaël Aupetit, DongHwa Shin, Aeri Cho, Seokhyeon Park, and Jinwook Seo
+tldr: Axiomatization and Design of Adjusted Internal Validation Measure for validating Cluster-Label Matching (CLM) of labeled datasets
+abstract: Clustering techniques are often validated using benchmark datasets where class labels are used as ground-truth clusters. However, depending on the datasets, class labels may not align with the actual data clusters, and such misalignment hampers accurate validation. Therefore, it is essential to evaluate and compare datasets regarding their cluster-label matching (CLM), i.e., how well their class labels match actual clusters. Internal validation measures (IVMs), like Silhouette, can compare CLM over different labeling of the same dataset, but are not designed to do so across different datasets. We thus introduce Adjusted IVMs as fast and reliable methods to evaluate and compare CLM across datasets. We establish four axioms that require validation measures to be independent of data properties not related to cluster structure (e.g., dimensionality, dataset size). Then, we develop standardized protocols to convert any IVM to satisfy these axioms, and use these protocols to adjust six widely used IVMs. Quantitative experiments (1) verify the necessity and effectiveness of our protocols and (2) show that adjusted IVMs outperform the competitors, including standard IVMs, in accurately evaluating CLM both within and across datasets. We also show that the datasets can be filtered or improved using our method to form more reliable benchmarks for clustering validation.
+image: clm.png
+### optional fields
+# comment: 
+pdf: jeon25tpami.pdf
+github: https://github.com/hj-n/labeled-datasets
+# arxiv: 
+# video:
+bibtex: jeon22arxiv2.bib
+demo: https://hyeonword.com/clm-home/
+appendix: jeon25tpami_appendix.pdf
+# award:

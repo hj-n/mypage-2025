@@ -1,0 +1,17 @@
+### template for publications
+### necessary fields:
+title: Uniform Manifold Approximation with Two-phase Optimization
+venue: 2022 IEEE Visualization and Visual Analytics (VIS)
+authors: Hyeon Jeon*, Hyung-Kwon Ko*, Soohyun Lee, Jaemin Jo, and Jinwook Seo
+tldr: A dimensionality reduction technique that improves UMAP to capture the global structure of high-dimensional data more accurately.
+abstract: We introduce Uniform Manifold Approximation with Two-phase Optimization (UMATO), a dimensionality reduction (DR) technique that improves UMAP to capture the global structure of high-dimensional data more accurately. In UMATO, optimization is divided into two phases so that the resulting embeddings can depict the global structure reliably while preserving the local structure with sufficient accuracy. As the first phase, hub points are identified and projected to construct a skeletal layout for the global structure. In the second phase, the remaining points are added to the embedding preserving the regional characteristics of local areas. Through quantitative experiments, we found that UMATO (1) outperformed widely used DR techniques in preserving the global structure while (2) producing competitive accuracy in representing the local structure. We also verified that UMATO is preferable in terms of robustness over diverse initialization methods, number of epochs, and subsampling techniques.
+image: umato.png
+### optional fields
+comment: (*equal contribution) 
+pdf: jeon22vis.pdf
+github: https://github.com/hyungkwonko/umato
+arxiv: https://arxiv.org/abs/2205.00420
+video: https://www.youtube.com/watch?v=cIJy8N1YhmQ
+bibtex: jeon22vis.bib
+# demo:
+appendix: jeon22vis_appendix.pdf

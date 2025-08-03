@@ -1,0 +1,18 @@
+### template for publications
+### necessary fields:
+title: "IoLens: Visual Analytics System for Exploring Storage I/O Tracking Process"
+venue: 2024 IEEE Pacific Visualization Conference (PacificVis)
+authors: Changmin Jeon, Jiwon Ha, Hyolim Hong, Hyeon Jeon, Hyeonsang Eom, Heonyoung Yeom, and Jinwook Seo
+tldr: A visual analytics system for analyzing Input/output performance in storage systems
+abstract: As we enter the era of big data, a substantial amount of Input/Output (I/O) requests to storage devices are generated, making the maintenance of I/O performance important. Furthermore, I/O performance directly affects the overall user experience in edge devices. However, with the increasing complexity of systems, numerous factors influencing I/O performance have emerged, making it challenging to analyze and explore the overall I/O processing workflow. To address this issue, we introduce IoLens, a visual analytics tool that helps users explore system I/O performance from kernel I/O stack up to virtual file system and storage device drivers. Our tool helps users analyze I/O performance by identifying the overall workload of I/O requests and intuitively identifying anomalies. The effectiveness and applicability of IoLens have been validated through a usage scenario following a system engineer working on system kernels. A user study with four domain experts is conducted to further validate the usability of the tool.
+image: iolens.png
+### optional fields
+# comment:  to appear. (Short paper)
+pdf: jeon24pvis.pdf
+# github:
+# arxiv:
+# video:
+# bibtex:
+demo: https://iolens.github.io/demo/
+# appendix:
+# award:
