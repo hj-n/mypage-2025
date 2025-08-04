@@ -31,6 +31,8 @@ const Header = (props) => {
 					<h2><a href={"./publications"}>Publications</a></h2>
 					<h2><a href={info.cv} target="_blank">CV</a></h2>
 					<h2><a href={`mailto:${info.email}`}>email</a></h2>
+					</div>
+				<div className='subtab'>
 					<h2><a href={info.scholar} target="_blank">Scholar</a></h2>
 					<h2><a href={info.twitter} target="_blank">X</a></h2>
 					<h2><a href={info.github} target="_blank">Github</a></h2>
