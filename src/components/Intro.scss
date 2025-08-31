@@ -9,14 +9,35 @@
 	}
 	
 	.introImage {
-		width: 200px;
-		height: 200px;
 		margin: 0;
 		display: block;
 		border-radius: 0;
 		margin-bottom: 20px;
 	}
 
+	.introImageWrapper {
+		display: flex;
+		flex-direction: row;
+		gap: 20px;
+	}
+
+	.introImageLabel {
+		margin-bottom: 3px;
+	}
+
 }
 
+@media (max-width: 480px) {
+	.introImage {
+		width: 160px;
+		height: 160px;
+	}
+}
+
+@media (min-width: 481px) {
+	.introImage {
+		width: 200px;
+		height: 200px;
+	}
+}
 
