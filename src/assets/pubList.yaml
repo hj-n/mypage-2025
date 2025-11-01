@@ -108,6 +108,11 @@
   time: 2507
   property:
     - short
+- key: clustersense
+  time: 2507
+  property: 
+    - full
+    - selected
 - key: umatofull
   time: 2507
   property: 

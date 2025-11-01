@@ -17,7 +17,7 @@ const Pub = (props) => {
 	const fetchPub = async () => {
 		const pub = await readYaml(require(`../../assets/pubs/${props.pubKey}.yaml`));
 		if (pub.authors.includes("Hyeon Jeon")) {
-			pub.authors = pub.authors.replace("Hyeon Jeon", "<u>Hyeon Jeon</u>");
+			pub.authors = pub.authors.replace("Hyeon Jeon", "<u><b>Hyeon Jeon</b></u>");
 		}
 		titleRef.current.innerHTML = pub.title;
 		authorsRef.current.innerHTML = pub.authors;
