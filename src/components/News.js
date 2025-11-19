@@ -18,7 +18,7 @@ const News = (props) => {
 
 	return (
 		<div>
-			{news.slice(0, 5).map((item, index) => {
+			{news.slice(0, 7).map((item, index) => {
 				return (
 					<div key={index} className="News">
 						<div className="NewsDate">
