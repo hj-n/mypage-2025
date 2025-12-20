@@ -19,6 +19,8 @@ const PublicationPage = (props) => {
 	return (
 		<div>
 			<div ref={pubIntroRef} className={"pubIntro"}></div>
+			<Title title="Dissertation"/>
+			<Publications property={"thesis"}/>
 			<Title title="Preprints" />
 			<Publications property={"preprint"} />
 			<Title title="International Journals & Peer-reviewed Conference Full Papers"/>

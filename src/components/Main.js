@@ -16,6 +16,8 @@ const Main = (props) => {
 			<Materials id="artifacts"/>
 			{/* <Title title="Software & Datasets"/> */}
 			{/* <Materials id="software"/> */}
+			<Title title="Dissertation"/>
+			<Publications property={"thesis"}/>
 			<Title title="Featured Publications"/>
 			<Publications property={"selected"}/>
 		</div>

@@ -1,0 +1,12 @@
+title: "Dimensionality Reduction Considered Harmful (Some of the Time)"
+venue: Ph.D. thesis, Seoul National University (2026)
+authors: Hyeon Jeon
+tldr:  A critical evaluation of UMATO, a dimensionality reduction technique that improves UMAP to capture the global structure of high-dimensional data more accurately.
+image: harmful.png
+pdf:    jeon25thesis.pdf
+# demo: https://taehyun.me/Umato_VisualizationDemo/
+# github: https://github.com/hyungkwonko/umato
+# comment: <br/>Invited for the presentation at IEEE VIS 2026
+# arxiv : https://arxiv.org/abs/2201.06379
+bibtex : jeon25thesis.bib
+

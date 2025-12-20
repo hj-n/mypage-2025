@@ -133,3 +133,7 @@
   property:
     - preprint
     - selected
+- key: harmful
+  time: 2512
+  property:
+    - thesis
