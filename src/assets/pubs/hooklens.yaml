@@ -1,0 +1,18 @@
+### template for publications
+### necessary fields:
+title: "HookLens: Visual Analytics for Understanding React Hooks Structures"
+venue: 2026 IEEE Pacific Visualization Conference (PacificVis)
+authors: Suyeon Hwang, Minkyu Kweon, Jeongmin Rhee, Soohyun Lee, Seokhyeon Park, Seokweon Jung, Hyeon Jeon, and Jinwook Seo
+tldr: A visual analytics system design for understanding complex React Hooks structures in web applications.
+abstract: TBA
+image: hooklens.png
+### optional fields
+# comment: to appear. (Short paper)
+# pdf: kim25pvis.pdf
+# github:
+# arxiv:
+# video:
+# bibtex:
+# demo:
+# appendix:
+# award:
