@@ -1,6 +1,14 @@
 - year: 2026
+  month: 2
+  content: Finally received my Ph.D. degree with the outstanding dissertation award from SNU CSE.
+
+- year: 2026
+  month: 2
+  content: Invited as a program committee for <a href="https://sites.google.com/view/gdxdr26/home">GDxDR workshop</a> at EuroVis 2026.
+
+- year: 2026
   month: 1
-  content: One paper accepted to <a href="https://pacificvis2026.github.io/">IEEE PacificVis 2026</a> (Conference track).
+  content: Two papers accepted to <a href="https://pacificvis2026.github.io/">IEEE PacificVis 2026</a> (Conference track & Short papers). Another paper accepted to <a href="https://vismeetsai.github.io/">VisMeetsAI Workshop</a> at PacificVis 2026.
 
 - year: 2025
   month: 11

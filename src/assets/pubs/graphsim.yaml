@@ -1,0 +1,18 @@
+### template for publications
+### necessary fields:
+title: "Seeing Graphs Like Humans: Benchmarking Computational Measures and MLLMs for Similarity Assessment"
+venue: Information Visualization & Visualization Meets AI Workwhop (VisMeetsAI) at PacificVis 2026
+authors: Seokweon Jung, Jeongmin Rhee, Seoyoung Doh, Hyeon Jeon, Ghulam Jilani Quadri,and Jinwook Seo
+tldr: We compare human-perceived graph similarity with computational metrics, showing MLLMs align better and explain decisions.
+abstract: TBA
+image: graphsim.png
+### optional fields
+# comment: to appear. (Short paper)
+pdf: jung26ivis.pdf
+# github:
+# arxiv: https://arxiv.org/abs/2602.17891
+# video:
+# bibtex:
+# demo: https://hook-lens.github.io/hook-lens/
+# appendix:
+# award:

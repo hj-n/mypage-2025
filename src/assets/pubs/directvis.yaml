@@ -1,0 +1,18 @@
+### template for publications
+### necessary fields:
+title: "DirectVis: Editing Code-Based Interactive Visualization with Direct Manipulation"
+venue: 2026 IEEE Pacific Visualization Conference (PacificVis)
+authors: Jeongin Park, Mingyu An, Hyunseo Yang, Junhyeong Hwangbo, Min Hyeong Kim, Hyeon Jeon, and Jinwook Seo
+tldr: DirectVis, a system that allows users to directly manipulate code-based interactive visualizations.
+abstract: TBA
+image: directvis.png
+### optional fields
+# comment: to appear. (Short paper)
+pdf: pack26pvis.pdf
+# github:
+# arxiv: https://arxiv.org/abs/2602.17891
+# video:
+# bibtex:
+# demo: https://hook-lens.github.io/hook-lens/
+# appendix:
+# award:

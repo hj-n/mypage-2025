@@ -27,7 +27,7 @@ const PublicationPage = (props) => {
 			<Publications property={"full"}/>
 			<Title title="Peer-reviewed Conference Short Papers"/>
 			<Publications property={"short"}/>
-			<Title title="Workshop Papers" />
+			<Title title="Workshop, Posters, and Domestics (Selected)" />
 			<Publications property={"others"} />
 		</div>
 	)

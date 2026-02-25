@@ -34,6 +34,7 @@
   time: 2307
   property:
     - short
+    - selected
 - key: clams
   time: 2307
   property:
@@ -141,3 +142,15 @@
   time: 2601
   property:
     - full
+- key: graphsim
+  time: 2604
+  property:
+    - full
+- key: directvis
+  time: 2604
+  property:
+    - short
+- key: ecm
+  time: 2604
+  property:
+    - others

@@ -8,11 +8,11 @@ abstract: TBA
 image: hooklens.png
 ### optional fields
 # comment: to appear. (Short paper)
-# pdf: kim25pvis.pdf
+pdf: hwang26pvis.pdf
 # github:
-# arxiv:
+arxiv: https://arxiv.org/abs/2602.17891
 # video:
 # bibtex:
-# demo:
+demo: https://hook-lens.github.io/hook-lens/
 # appendix:
 # award:
