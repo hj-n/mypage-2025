@@ -5,8 +5,9 @@ tldr:  A novel brushing technique for reliable cluster analysis in multidimensio
 abstract: Brushing is an everyday interaction in 2D scatterplots, which allows users to select and filter data points within a continuous, enclosed region and conduct further analysis on the points. However, such conventional brushing cannot be directly applied to Multidimensional Projections (MDP), as they hardly escape from False and Missing Neighbors distortions that make the relative positions of the points unreliable. To alleviate this problem, we introduce Distortion-aware brushing, a novel brushing technique for MDP. While users perform brushing, Distortion-aware brushing resolves distortions around currently brushed points by dynamically relocating points in the projection; the points whose data are close to the brushed data in the multidimensional (MD) space go near the corresponding brushed points in the projection, and the opposites move away. Hence, users can overcome distortions and readily extract out clustered data in the MD space using the technique. We demonstrate the effectiveness and applicability of Distortion-aware brushing through usage scenarios with two datasets. Finally, by conducting user studies with 30 participants, we verified that Distortion-aware brushing significantly outperforms previous brushing techniques in precisely separating clusters in the MD space, and works robustly regardless of the types or the amount of distortions in MDP.
 image: dabrush.png
 pdf:    jeon25tvcg3.pdf
-# github: https://github.com/hj-n/distortion-aware-brushing
+github: https://github.com/orgs/distortion-aware-brushing/repositories
 arxiv : https://arxiv.org/abs/2201.06379
 comment: <br/>Invited for the presentation at IEEE VIS 2026
+demo: https://distortion-aware-brushing.github.io/site/
 # bibtex : jeon22arxiv.bib
 
