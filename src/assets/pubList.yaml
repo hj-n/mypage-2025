@@ -8,8 +8,8 @@
 - key: snc
   time: 2107
   property:
-    - selected
     - full
+    - selected
 - key: githru
   time: 2007
   property:
@@ -34,7 +34,6 @@
   time: 2307
   property:
     - short
-    - selected
 - key: clams
   time: 2307
   property:
@@ -86,7 +85,6 @@
   time: 2504
   property:
     - full
-    - selected
 - key: clm
   time: 2505
   property: 
@@ -113,7 +111,6 @@
   time: 2507
   property: 
     - full
-    - selected
 - key: umatofull
   time: 2507
   property: 
@@ -128,12 +125,6 @@
   time: 2509
   property:
     - others
-    - selected
-- key: misusing
-  time: 2510
-  property:
-    - preprint
-    - selected
 - key: harmful
   time: 2512
   property:
@@ -158,3 +149,17 @@
   time: 2606
   property:
     - others
+- key: visauto
+  time: 2609
+  property:
+    - full
+    - selected
+- key: misusing
+  time: 2608
+  property:
+    - full
+    - selected
+- key: tailvis
+  time: 2608  
+  property:
+    - full

@@ -1,5 +1,5 @@
 title: Stop Misuing <i>t</i>-SNE and UMAP for Visual Analytics
-venue: arXiv Preprint
+venue: IEEE Transactions on Visualization and Computer Graphics (Proc. VIS 2026)
 authors: Hyeon Jeon, Jeongin Park, Sungbok Shin, and Jinwook Seo
 tldr:  An identification of the misuse of <i>t</i>-SNE and UMAP in visual analytics community and call for actions to remedy the problem
 abstract: TBA
