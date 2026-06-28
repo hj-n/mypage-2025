@@ -2,7 +2,7 @@
 ### necessary fields:
 title: "Seeing Graphs Like Humans: Benchmarking Computational Measures and MLLMs for Similarity Assessment"
 venue: Information Visualization & Visualization Meets AI Workwhop (VisMeetsAI) at PacificVis 2026
-authors: Seokweon Jung, Jeongmin Rhee, Seoyoung Doh, Hyeon Jeon, Ghulam Jilani Quadri,and Jinwook Seo
+authors: Seokweon Jung, Jeongmin Rhee, Seoyoung Doh, Hyeon Jeon, Ghulam Jilani Quadri, and Jinwook Seo
 tldr: We compare human-perceived graph similarity with computational metrics, showing MLLMs align better and explain decisions.
 abstract: TBA
 image: graphsim.png

@@ -149,6 +149,10 @@
   time: 2606
   property:
     - others
+- key: extensive
+  time: 2607
+  property:
+    - full
 - key: visauto
   time: 2609
   property:
