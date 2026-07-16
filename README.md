@@ -1,5 +1,22 @@
 # Getting Started with Create React App
 
+## Google Analytics 4
+
+1. In Google Analytics, create a GA4 property and a Web data stream for this site.
+2. Copy the Measurement ID (`G-...`).
+3. Create `.env.production.local` in the project root:
+
+   ```dotenv
+   REACT_APP_GA_MEASUREMENT_ID=G-XXXXXXXXXX
+   ```
+
+4. Rebuild and deploy the site with `yarn build`.
+
+Analytics only runs in production, so local development traffic is not counted.
+Client-side route changes such as `/publications` are recorded as separate page
+views. The measurement ID is a public identifier; do not add API secrets to a
+`REACT_APP_*` variable.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

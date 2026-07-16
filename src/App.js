@@ -5,6 +5,7 @@ import "./App.scss"
 import Main from './components/Main';
 import PublicationPage from './components/PublicationPage';
 import { Route, Routes } from 'react-router-dom';
+import Analytics from './components/Analytics';
 
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
 
   return (
     <div className="App">
+     <Analytics/>
      <Header/>
      <Routes>
         <Route path="/" element={<Main/>}></Route>
