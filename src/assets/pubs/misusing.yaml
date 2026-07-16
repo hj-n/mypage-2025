@@ -4,7 +4,7 @@ authors: Hyeon Jeon, Jeongin Park, Sungbok Shin, and Jinwook Seo
 tldr:  An identification of the misuse of <i>t</i>-SNE and UMAP in visual analytics community and call for actions to remedy the problem
 abstract: TBA
 image: misusing.png
-pdf:    jeon25arxiv.pdf
+pdf:    jeon26vis.pdf
 # github: https://github.com/hj-n/distortion-aware-brushing
 arxiv : https://arxiv.org/abs/2506.08725
 # bibtex : jeon22arxiv.bib

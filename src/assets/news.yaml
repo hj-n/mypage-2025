@@ -1,4 +1,8 @@
 - year: 2026
+  month: 11
+  content: "Will present four full papers (including two TVCG papers): <ul><li>Visualization Autocomplete</li> <li>Stop Misusing t-SNE and UMAP</li> <li>Distortion-aware brushing</li> <li>UMATO</li></ul> at IEEE VIS 2026 as a leading author."
+
+- year: 2026
   month: 7
   content: Three papers accepted to <a href="https://ieeevis.org/year/2026/welcome">IEEE VIS 2026</a> and one paper accepted to <a href="https://uist.acm.org/2026/">ACM UIST 2026</a>.
 
