@@ -21,3 +21,8 @@ contents:
     year: 2025
     link: https://hyeonword.com/hci-crash/
     description: "Materials for my HCI Crash Course lecture at SNU HCI Lab and ViBA Lab"
+  - title: "ggaction: A Grammar of Graphical Actions"
+    id: "ggaction"
+    year: 2026
+    link: https://github.com/ggaction/ggaction
+    description: 'A javascript-based grammar for how charts are made. Documentations available at <a href="https://ggaction.github.io/ggaction/">ggaction.github.io/ggaction/</a>.'
